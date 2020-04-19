@@ -10,7 +10,10 @@ packages:
 - .
 
 # Dependency packages to be pulled from upstream that are not in the resolver.
-# extra-deps: []
+extra-deps:
+- github: tmcdonell/accelerate
+  commit: 62aa25068ddacae3a555609c1e7b76a14d3a5323
+
 
 # Override default flag values for local packages and extra-deps
 # flags: {}

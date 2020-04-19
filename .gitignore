@@ -1,0 +1,5 @@
+.stack-work/
+*~
+/posit-accelerate.cabal
+/stack.yaml.lock
+/.stack-work
